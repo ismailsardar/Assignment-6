@@ -1,4 +1,2 @@
-## responsive-navBar
-#responsive navBar
+## Live Link ==> https://ismailsardar.github.io/Assignment-6/index.html
 
-#Icon Web-site link: https://ionic.io/ionicons
