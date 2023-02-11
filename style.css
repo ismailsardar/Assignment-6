@@ -83,7 +83,8 @@ body {
   height: 100vh;
 }
 #bgImg2 {
-  background-image: url("./img/blog.jpg");
+  /* background-image: url("./img/blog.jpg"); */
+  background-image: url("./img/about.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
@@ -98,7 +99,8 @@ body {
   height: 1000px;
 }
 #bgImg4 {
-  background-image: url("./img/about.jpg");
+  /* background-image: url("./img/about.jpg"); */
+  background-image: url("./img/blog.jpg");
   background-position: center;
   background-size: cover;
   background-attachment: fixed;
